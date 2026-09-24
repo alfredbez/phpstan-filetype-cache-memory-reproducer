@@ -1,0 +1,13 @@
+{
+    "name": "reproducer/phpstan-filetype-cache-memory",
+    "description": "Standalone PHPStan reproducer for repeated import maps in the file type cache",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "2.3.x-dev"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
